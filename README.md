@@ -1,5 +1,5 @@
 # Miniatura-NCN
-Dane pozyskane w ramach działania badawczego MINIATURA 7 (nr 2023/07/X/NZ9/00300), finansowanego przez Narodowe Centrum Nauki.
+Umieszczone w tym repozytowium dane oraz wyniki zostały pozyskane w ramach działania badawczego MINIATURA 7 (nr 2023/07/X/NZ9/00300) "Odporność na zamarzanie u małży słodkowodnych - wpływ kondycji osobnika i parametrów siedliska", finansowanego przez Narodowe Centrum Nauki.
 
 Opis udostępnionych plików i ich zawartości:
 
