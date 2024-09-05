@@ -17,7 +17,7 @@ Mussels.csv - Tabela przedstawiająca statystyki opisowe wieku (age) oraz długo
     UQ - górny kwartyl (75& badanego parametru na danym stanowisku
     SD - odchylenie standardowe średniej badanego parametru na danym stanowisku
 
-Localities.txt - Lista stanowisk z których pobierano próby i ich kod
+Localities.csv - Lista stanowisk z których pobierano próby i ich kod
 
 Shape.csv - Tabela przedstawiająca główne składowe (Principal Components) opisujące kształt muszli zebranych osobników A. anatina uzyskane za pomocą metody EFD (Elliptical Fourier Descriptors).
     Mussel_ID - jednoznaczny identyfikator analizowanego osobnika, składający się z kodu stanowiska oraz numeru osobnika
