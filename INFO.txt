@@ -1,0 +1,69 @@
+﻿I.Pobieranie prób
+
+Małże pobierane były w okresie jesienno-zimowym, w gradiencie geograficznym i środowiskowym (stanowiska nizinne i wyżynne):
+	(1) północ Europy (Norwegia i Szwecja: 150 osobników z 6 stanowisk),
+	(2) Europa Środkowa (Polska: 129 osobników z 5 stanowisk), oraz
+	(3) na południu Europy (Portugalia: 74 osobniki z 4 stanowisk).
+Małże zbierano ręcznie, na stanowiskach wskazanych przez lokalnych ekspertów. Na każdym stanowisku notowano aktualną temperaturę wody oraz temperaturę powietrza.
+
+
+
+II. Wyznaczanie temperatury punktu przechłodzenia płynów ustrojowych oraz stężenia glikogenu w tkankach
+
+Dla każdego osobnika wykonywano oznaczenie temperatury punktu przechłodzenia płynów ustrojowych (Super Cooling Point) zgodnie
+z powszechnie przyjętą metodyką (Salt, 1961).
+
+	PROTOKÓŁ PRAC LABORATORYJNYCH
+
+	1. Lista niezbędnych materiałów:
+	- pusta zamrażarka o pojemności ok. 10L
+	- zamrażarka do przechowywania zamrożonych małży po eksperymencie, pojemność taka, aby pomieścić wszystkie tuszki, temperatura -20°C
+	- sondy pomiarowe i miernik (termopara)
+	- baterie do miernika 
+	- woreczki strunowe o wymiarach 10x10cm w liczbie odpowiadającej liczbie analizowanych osobników
+	- pisak olejowy do opisywania małży 
+	- foliopis do woreczków strunowych 
+	- scyzoryk lub inny otwieracz do małży 
+	- skalpel do wycinania tuszek
+	- ręczniki papierowe
+	- rękawiczki jednorazowe
+	- notes, długopis 
+	- linijka
+	- biały podkład np. folia do robienia zdjęć
+	- Glycogen Assay Kit (Sigma Aldrich)
+ 
+	2. Metodyka
+		2.1.Etap mrożenia
+			2.1.1.	Osuszanie.
+				Wyjmujemy z wody małże. Każdego osobnika osuszamy ręcznikami papierowymi z obu stron i układamy w kuwecie
+			2.1.2.	Znakowanie
+				Każdy małż otrzymuje indywidualny kod: litera i liczba, które odpowiadają kodom stanowisk z których zostały pobrane (np. lokalizacja A, kody: A1, A2,..., A20).
+				Oznaczenia nanosimy na obu stronach małża.
+			2.1.3.	 Mrożenie START
+				- Przytwierdzamy sondy do miernika i włączamy miernik 
+				- Umieszczamy sondy w małżach w mięśniu zwieraczu, za syfonem
+				- Sondy umieszczamy zgodnie z kolejnością numeracji: sonda 1 do małża 1, sonda 2 do małża 2 itd.
+				- Małże z sondami wkładamy do zamrażarki ogrzanej do temperatury min. 5°C
+				- Włączamy zamrażarkę i zapis na mierniku
+				- Kontrolujemy temperaturę co jakiś czas. W tym czasie opisujemy woreczki strunowe, po dwa woreczki na małża – jeden na tuszkę, drugi na muszlę. Kody te same co na małżach.
+			2.1.4.	 Mrożenie STOP
+				- procedurę mrożenia przerywamy po osiagnięciu temperatury -20°C
+				- Zatrzymujemy zapis, otwieramy zamrażarkę
+				- zamrożone tuszki pakujemy do przygotowanych wcześniej woreczków i zachowujemy do dalszych analiz (oznaczenie glikogenu). Zamrożone tuszki powinny być przechowywane w temperaturze -20°C
+				- Muszle przed spakowaniem mierzymy (długość muszli, wiek) i fotografujemy. Układamy obie połówki i linijkę na białym tle, tak jak na przykładzie poniżej i robimy zdjęcie. Zdjęcia posłużą do analizy kształtu muszli metoda EFD (Elliptical Fourier Descriptors) 
+				- Kopię zapasową zdjęć przesyłamy na Dysk Google 
+			2.2. Oznaczenie stężenia glikogenu w tkankach
+				- oznaczenie wykonujemy zgodnie z metodyką producenta (Sigma Aldrich, https://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/documents/286/817/mak465pis-mk.pdf)
+	
+
+	Literatura:
+		Salt, 1961. Principles of insect cold hardiness. Annu. Rev. Entomol. 6: 55–74
+
+
+III. Analiza kształtu muszli metoda EFD
+
+Analizę kształtu muszli metodą EFD przeprowadzamy za pomocą programu SHAPE, zgodnie z metodyką opisaną w Iwata (2002).
+
+
+	Literatura:
+		Iwata, 2002. SHAPE: A computer program package for quantitative evaluation of biological shapes based on elliptic Fourier descriptors. Journal of Heredity 93: 384-385
