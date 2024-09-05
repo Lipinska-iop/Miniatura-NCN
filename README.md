@@ -14,7 +14,7 @@ Mussels.csv - Tabela przedstawiająca statystyki opisowe wieku (age) oraz długo
     Minimum - najniższa wartość badanego parametru na danym stanowisku,
     Maximum - najwyższa wartość badanego parametru na danym stanowisku,
     LQ - donly kwartyl (25%) badanego parametru na danym stanowisku,
-    UQ - górny kwartyl (75& badanego parametru na danym stanowisku,
+    UQ - górny kwartyl (75%) badanego parametru na danym stanowisku,
     SD - odchylenie standardowe średniej badanego parametru na danym stanowisku,
 
 Localities.csv - Lista stanowisk z których pobierano próby.
