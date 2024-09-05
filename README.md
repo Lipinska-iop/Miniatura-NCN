@@ -1,7 +1,7 @@
 # Miniatura-NCN
 Dane pozyskane w ramach działania badawczego MINIATURA 7 (nr 2023/07/X/NZ9/00300), finansowanego przez Narodowe Centrum Nauki.
 
-Opis udostępnionych plików:
+Opis udostępnionych plików i ich zawartości:
 
 Mussels.csv - Tabela przedstawiająca statystyki opisowe wieku (age) oraz długości muszli (Length [mm]) zebranych osobników Anodonta anatina.
     Variable - badana zmienna,
