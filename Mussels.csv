@@ -1,0 +1,29 @@
+Variable;Region;Habitat;Locality;Valid N;Mean;Median;Minimum;Maximum;LQ;UQ;SD
+Age;Scandinavia;Lowland;A;23;5,2;5,0;2,0;8,0;4,0;7,0;1,8
+Age;Scandinavia;Highland;B;21;12,1;12,0;8,0;16,0;11,0;13,0;2,3
+Age;Scandinavia;Highland;C;24;4,0;4,0;3,0;7,0;3,0;4,0;1,1
+Age;Scandinavia;Highland;D;21;10,2;10,0;4,0;19,0;9,0;12,0;3,1
+Age;Scandinavia;Lowland;E;25;11,3;12,0;5,0;17,0;10,0;12,0;2,5
+Age;Scandinavia;Lowland;F;21;12,2;12,0;10,0;15,0;11,0;13,0;1,6
+Age;Poland;Lowland;G;18;6,9;7,0;3,0;10,0;5,0;8,0;2,0
+Age;Poland;Lowland;H;24;10,4;10,5;3,0;15,0;9,0;12,5;3,4
+Age;Poland;Lowland;I;21;5,4;6,0;2,0;9,0;4,0;7,0;2,0
+Age;Portugal;Highland;PC;19;7,6;8,0;3,0;10,0;6,0;9,0;1,7
+Age;Portugal;Lowland;PO;22;9,3;9,0;4,0;14,0;8,0;11,0;2,4
+Age;Portugal;Highland;PT;17;9,4;9,0;7,0;12,0;9,0;10,0;1,4
+Age;Portugal;Lowland;PV;20;13,8;13,5;4,0;22,0;11,5;16,0;3,9
+Age;Poland;Highland;Z;24;17,1;17,0;8,0;22,0;14,5;20,5;3,7
+Length [mm];Scandinavia;Lowland;A;23;63,5;65,9;39,6;75,5;57,9;70,7;10,1
+Length [mm];Scandinavia;Highland;B;21;99,1;101,4;82,5;111,5;95,8;104,0;7,9
+Length [mm];Scandinavia;Highland;C;24;101,5;101,0;86,6;123,0;96,6;106,5;9,0
+Length [mm];Scandinavia;Highland;D;21;102,6;103,8;70,7;123,3;95,1;113,3;13,9
+Length [mm];Scandinavia;Lowland;E;25;91,9;90,6;74,7;108,0;85,7;99,1;9,1
+Length [mm];Scandinavia;Lowland;F;21;74,2;73,7;63,8;89,0;70,6;77,9;6,2
+Length [mm];Poland;Lowland;G;18;99,0;98,5;82,1;117,1;91,9;105,2;10,0
+Length [mm];Poland;Lowland;H;24;105,1;109,2;69,4;124,0;99,8;115,2;15,5
+Length [mm];Poland;Lowland;I;21;78,6;79,1;59,5;102,1;70,5;87,0;11,9
+Length [mm];Portugal;Highland;PC;19;79,0;81,6;36,2;115,5;70,3;90,1;16,8
+Length [mm];Portugal;Lowland;PO;22;89,5;91,8;51,1;112,2;82,9;101,3;15,8
+Length [mm];Portugal;Highland;PT;17;92,3;94,5;72,5;126,1;85,4;97,8;12,6
+Length [mm];Portugal;Lowland;PV;20;141,1;148,2;98,5;175,0;125,1;153,5;19,8
+Length [mm];Poland;Highland;Z;24;98,7;106,2;11,4;128,5;89,3;115,0;25,4
