@@ -29,3 +29,5 @@ Shape.csv - Tabela przedstawiająca efektywne Główne Składowe (Principal Comp
     PC3 - Trzecia główna składowa,
     PC4 - Czwarta Główna Składowa,
     PC5 - Piąta Główna składowa
+
+INFO.txt - Plik zawierający opis zbierania danych, protokół oraz metodykę prac laboratoryjnych.
