@@ -22,7 +22,7 @@ Localities.csv - Lista stanowisk z których pobierano próby.
     Kod - kod stanowiska,
     Kraj - nazwa kraju na terenie którego położone jest stanowisko
 
-Shape.csv - Tabela przedstawiająca główne składowe (Principal Components) opisujące kształt muszli zebranych osobników A. anatina uzyskane za pomocą metody EFD (Elliptical Fourier Descriptors).
+Shape.csv - Tabela przedstawiająca efektywne Główne Składowe (Principal Components) opisujące kształt muszli zebranych osobników A. anatina uzyskane za pomocą metody EFD (Elliptical Fourier Descriptors).
     Mussel_ID - jednoznaczny identyfikator analizowanego osobnika, składający się z kodu stanowiska oraz numeru osobnika,
     PC1 - Pierwsza Główna Składowa,
     PC2 - Druga Główna Składowa,
