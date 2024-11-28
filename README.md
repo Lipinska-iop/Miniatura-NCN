@@ -2,7 +2,7 @@
 
 **************************** English description ****************************
 
-The data and results stored in this repository were obtained within the framework of the research activity MINIATURE 7 (No. 2023/07/X/NZ9/00300) “Frost resistance in freshwater mussels - influence of individual condition and habitat parameters”, funded by the National Science Center.
+The data and results stored in this repository were obtained within the framework of the research activity MINIATURA 7 (No. 2023/07/X/NZ9/00300) “Frost resistance in freshwater mussels - influence of individual condition and habitat parameters”, funded by the National Science Center.
 
 Description of the files provided and their contents:
 
