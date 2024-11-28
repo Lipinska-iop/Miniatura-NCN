@@ -20,6 +20,8 @@ glycogen.xlsx - Table showing the glycogen concentration in analysed mussels. ID
 
 length.xlsx - Table showing the shell length and age of collected mussels. ID - unambiguous identifier of the analyzed individual, consisting of the locality code and the number of the individual, Region - categorical variable describing the region from which specimens were sampled (Scandinavia/Poland/Portugal), Habitat - categorical variable describing the form of the terrain (Highland/Lowland), length - shell length of each individual [mm], age - age [years] of each individual.
 
+regressions.xlsx - Table showing row data used in Regression analysis. glycogen - glycogen concentration in mussel tissues [ug/ml], SCP - measured supercooling point [deg C], t_water - measured water temperature [deg C]
+
 
 **************************** Opis w języku polskim: ****************************
 
@@ -61,3 +63,5 @@ t_water_Flake.txt - plik wyjściowy z wynikami modelowania średniej miesięczne
 glycogen.xlsx - Tabela przedstawiająca stężenie glikogenu w tkankach analizowanych małży. ID - jednoznaczny identyfikator analizowanego osobnika, składający się z kodu stanowiska i numeru osobnika, Region - zmienna kategoryczna opisująca region, z którego pobrano próbki (Skandynawia/Polska/Portugalia), Habitat - zmienna kategoryczna opisująca formę terenu (Wyżyna/Nizina), glikogen - stężenie glikogenu [ug/ml].
 
 length.xlsx - Tabela przedstawiająca długość muszli i wiek zebranych osobników. ID - jednoznaczny identyfikator analizowanego osobnika, składający się z kodu miejscowości i numeru osobnika, Region - zmienna kategoryczna opisująca region, z którego pobrano osobnika (Skandynawia/Polska/Portugalia), Habitat - zmienna kategoryczna opisująca formę terenu (Wyżyny/Niziny), Długość - długość muszli każdego osobnika [mm], Wiek - wiek [lata] każdego osobnika.
+
+regressions.xlsx - surowe dane użyte w analizie regresji glycogen -stężenie glikogenu w tkankach małża [ug/ml], SCP - zmierzony punkt przechłodzenia [stopnie C], t_water - zmierzona temperatura wody [stopnie C]
