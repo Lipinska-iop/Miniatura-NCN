@@ -18,6 +18,8 @@ t_water_Flake.txt - output file with modelled mean monthly and mean weekly water
 
 glycogen.xlsx - Table showing the glycogen concentration in analysed mussels. ID - unambiguous identifier of the analyzed individual, consisting of the locality code and the number of the individual, Region - categorical variable describing the region from which specimens were sampled (Scandinavia/Poland/Portugal), Habitat - categorical variable describing the form of the terrain (Highland/Lowland), glycogen - glycogen concentration [ug/ml]
 
+length.xlsx - Table showing the shell length and age of collected mussels. ID - unambiguous identifier of the analyzed individual, consisting of the locality code and the number of the individual, Region - categorical variable describing the region from which specimens were sampled (Scandinavia/Poland/Portugal), Habitat - categorical variable describing the form of the terrain (Highland/Lowland), length - shell length of each individual [mm], age - age [years] of each individual.
+
 
 **************************** Opis w języku polskim: ****************************
 
@@ -57,3 +59,5 @@ INFO.txt - Plik zawierający opis zbierania danych, protokół oraz metodykę pr
 t_water_Flake.txt - plik wyjściowy z wynikami modelowania średniej miesięcznej i średniej tygodniowej temperatury wody w jeziorach za pomocą modelu FLake. 
 
 glycogen.xlsx - Tabela przedstawiająca stężenie glikogenu w tkankach analizowanych małży. ID - jednoznaczny identyfikator analizowanego osobnika, składający się z kodu stanowiska i numeru osobnika, Region - zmienna kategoryczna opisująca region, z którego pobrano próbki (Skandynawia/Polska/Portugalia), Habitat - zmienna kategoryczna opisująca formę terenu (Wyżyna/Nizina), glikogen - stężenie glikogenu [ug/ml].
+
+length.xlsx - Tabela przedstawiająca długość muszli i wiek zebranych osobników. ID - jednoznaczny identyfikator analizowanego osobnika, składający się z kodu miejscowości i numeru osobnika, Region - zmienna kategoryczna opisująca region, z którego pobrano osobnika (Skandynawia/Polska/Portugalia), Habitat - zmienna kategoryczna opisująca formę terenu (Wyżyny/Niziny), Długość - długość muszli każdego osobnika [mm], Wiek - wiek [lata] każdego osobnika.
