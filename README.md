@@ -16,6 +16,8 @@ INFO.txt - File containing description of data collection, protocol and methodol
 
 t_water_Flake.txt - output file with modelled mean monthly and mean weekly water temperatures in each lake using FLake. 
 
+glycogen.xlsx - Table showing the glycogen concentration in analysed mussels. ID - unambiguous identifier of the analyzed individual, consisting of the locality code and the number of the individual, Region - categorical variable describing the region from which specimens were sampled (Scandinavia/Poland/Portugal), Habitat - categorical variable describing the form of the terrain (Highland/Lowland), glycogen - glycogen concentration [ug/ml]
+
 
 **************************** Opis w języku polskim: ****************************
 
@@ -53,3 +55,5 @@ Shape.csv - Tabela przedstawiająca efektywne Główne Składowe (Principal Comp
 INFO.txt - Plik zawierający opis zbierania danych, protokół oraz metodykę prac laboratoryjnych.
 
 t_water_Flake.txt - plik wyjściowy z wynikami modelowania średniej miesięcznej i średniej tygodniowej temperatury wody w jeziorach za pomocą modelu FLake. 
+
+glycogen.xlsx - Tabela przedstawiająca stężenie glikogenu w tkankach analizowanych małży. ID - jednoznaczny identyfikator analizowanego osobnika, składający się z kodu stanowiska i numeru osobnika, Region - zmienna kategoryczna opisująca region, z którego pobrano próbki (Skandynawia/Polska/Portugalia), Habitat - zmienna kategoryczna opisująca formę terenu (Wyżyna/Nizina), glikogen - stężenie glikogenu [ug/ml].
