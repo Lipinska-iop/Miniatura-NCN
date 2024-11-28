@@ -14,6 +14,8 @@ Shape.csv - Table showing the effective Principal Components describing the shap
 
 INFO.txt - File containing description of data collection, protocol and methodology of laboratory work.
 
+t_water_Flake.txt - output file with modelled mean monthly and mean weekly water temperatures in each lake using FLake. 
+
 
 **************************** Opis w języku polskim: ****************************
 
@@ -49,3 +51,5 @@ Shape.csv - Tabela przedstawiająca efektywne Główne Składowe (Principal Comp
     PC5 - Piąta Główna składowa
 
 INFO.txt - Plik zawierający opis zbierania danych, protokół oraz metodykę prac laboratoryjnych.
+
+t_water_Flake.txt - plik wyjściowy z wynikami modelowania średniej miesięcznej i średniej tygodniowej temperatury wody w jeziorach za pomocą modelu FLake. 
