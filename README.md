@@ -1,4 +1,24 @@
 # Miniatura-NCN
+
+English description
+
+The data and results stored in this repository were obtained within the framework of the research activity MINIATURE 7 (No. 2023/07/X/NZ9/00300) “Frost resistance in freshwater mussels - influence of individual condition and habitat parameters”, funded by the National Science Center.
+
+Description of the files provided and their contents:
+
+Mussels.csv - Table showing descriptive statistics of age (Age) and shell length (Length [mm]) of collected individuals of Anodonta anatina. Variable - variable under study, Region - categorical variable describing the region from which specimens were sampled (Scandinavia/Poland/Portugal), Habitat - categorical variable describing the form of the terrain (Highland/Lowland), Locality - (categorical variable) code of the site from which specimens of A. anatina, Valid N - the number of collected and measured individuals at a given locality, Mean - the mean value of the studied parameter, Median - the median of the studied parameter, Minimum - the lowest value of the studied parameter at a given locality, Maximum - the highest value of the studied parameter at a given locality, LQ - the donly quartile (25%) of the studied parameter at a given locality, UQ - the upper quartile (75%) of the studied parameter at a given locality, SD - the standard deviation of the mean of the studied parameter at a given locality,
+
+Localities.csv - List of sampled sites. Site - name of the site, Code - code of the site, Country - name of the country in which the site is located.
+
+Shape.csv - Table showing the effective Principal Components describing the shape of the shells of collected individuals of A. anatina obtained using the EFD (Elliptical Fourier Descriptors) method. Mussel_ID - unambiguous identifier of the analyzed individual, consisting of the locality code and the number of the individual, PC1 - First Principal Component, PC2 - Second Principal Component, PC3 - Third Principal Component, PC4 - Fourth Principal Component, PC5 - Fifth Principal Component.
+
+INFO.txt - File containing description of data collection, protocol and methodology of laboratory work.
+
+
+
+
+Opis w języku polskim:
+
 Umieszczone w tym repozytowium dane oraz wyniki zostały pozyskane w ramach działania badawczego MINIATURA 7 (nr 2023/07/X/NZ9/00300) "Odporność na zamarzanie u małży słodkowodnych - wpływ kondycji osobnika i parametrów siedliska", finansowanego przez Narodowe Centrum Nauki.
 
 Opis udostępnionych plików i ich zawartości:
