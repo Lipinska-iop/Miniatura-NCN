@@ -1,6 +1,6 @@
 # Miniatura-NCN
 
-English description
+******************************************************************************* English description *******************************************************************************
 
 The data and results stored in this repository were obtained within the framework of the research activity MINIATURE 7 (No. 2023/07/X/NZ9/00300) “Frost resistance in freshwater mussels - influence of individual condition and habitat parameters”, funded by the National Science Center.
 
@@ -15,9 +15,7 @@ Shape.csv - Table showing the effective Principal Components describing the shap
 INFO.txt - File containing description of data collection, protocol and methodology of laboratory work.
 
 
-
-
-Opis w języku polskim:
+******************************************************************************* Opis w języku polskim: *******************************************************************************
 
 Umieszczone w tym repozytowium dane oraz wyniki zostały pozyskane w ramach działania badawczego MINIATURA 7 (nr 2023/07/X/NZ9/00300) "Odporność na zamarzanie u małży słodkowodnych - wpływ kondycji osobnika i parametrów siedliska", finansowanego przez Narodowe Centrum Nauki.
 
